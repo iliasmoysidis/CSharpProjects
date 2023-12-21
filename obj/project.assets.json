@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/iliamous/.nuget/packages/": {}
+    "/home/ilias/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/iliamous/VSCodeProjects/practice/practice.csproj",
+      "projectUniqueName": "/home/ilias/VSCodeProjects/CSharpProjects/practice.csproj",
       "projectName": "practice",
-      "projectPath": "/home/iliamous/VSCodeProjects/practice/practice.csproj",
-      "packagesPath": "/home/iliamous/.nuget/packages/",
-      "outputPath": "/home/iliamous/VSCodeProjects/practice/obj/",
+      "projectPath": "/home/ilias/VSCodeProjects/CSharpProjects/practice.csproj",
+      "packagesPath": "/home/ilias/.nuget/packages/",
+      "outputPath": "/home/ilias/VSCodeProjects/CSharpProjects/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/iliamous/.nuget/NuGet/NuGet.Config"
+        "/home/ilias/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

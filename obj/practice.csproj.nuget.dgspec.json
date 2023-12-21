@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/iliamous/VSCodeProjects/practice/practice.csproj": {}
+    "/home/ilias/VSCodeProjects/CSharpProjects/practice.csproj": {}
   },
   "projects": {
-    "/home/iliamous/VSCodeProjects/practice/practice.csproj": {
+    "/home/ilias/VSCodeProjects/CSharpProjects/practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/iliamous/VSCodeProjects/practice/practice.csproj",
+        "projectUniqueName": "/home/ilias/VSCodeProjects/CSharpProjects/practice.csproj",
         "projectName": "practice",
-        "projectPath": "/home/iliamous/VSCodeProjects/practice/practice.csproj",
-        "packagesPath": "/home/iliamous/.nuget/packages/",
-        "outputPath": "/home/iliamous/VSCodeProjects/practice/obj/",
+        "projectPath": "/home/ilias/VSCodeProjects/CSharpProjects/practice.csproj",
+        "packagesPath": "/home/ilias/.nuget/packages/",
+        "outputPath": "/home/ilias/VSCodeProjects/CSharpProjects/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/iliamous/.nuget/NuGet/NuGet.Config"
+          "/home/ilias/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

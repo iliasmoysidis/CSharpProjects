@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S5yKo8/cVtrTCOdNZk1zJ++WWwB2EFx0MpZ9uwHULWNemrdGXa3aFMV0d/3JirH3Uv4EAhmjvJxIGBFGPchVJA==",
+  "dgSpecHash": "v5RlMvHytinI390bBNNM6562jVhSsR5Fasp0rLqJHCr9M4lYvOidj9k34rk6HBJGI7bBGlGGD9mil1IYCP7Lgg==",
   "success": true,
-  "projectFilePath": "/home/iliamous/VSCodeProjects/practice/practice.csproj",
+  "projectFilePath": "/home/ilias/VSCodeProjects/CSharpProjects/practice.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
