@@ -1,0 +1,14 @@
+/home/iliamous/VSCodeProjects/practice/bin/Debug/net8.0/practice
+/home/iliamous/VSCodeProjects/practice/bin/Debug/net8.0/practice.deps.json
+/home/iliamous/VSCodeProjects/practice/bin/Debug/net8.0/practice.runtimeconfig.json
+/home/iliamous/VSCodeProjects/practice/bin/Debug/net8.0/practice.dll
+/home/iliamous/VSCodeProjects/practice/bin/Debug/net8.0/practice.pdb
+/home/iliamous/VSCodeProjects/practice/obj/Debug/net8.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/iliamous/VSCodeProjects/practice/obj/Debug/net8.0/practice.AssemblyInfoInputs.cache
+/home/iliamous/VSCodeProjects/practice/obj/Debug/net8.0/practice.AssemblyInfo.cs
+/home/iliamous/VSCodeProjects/practice/obj/Debug/net8.0/practice.csproj.CoreCompileInputs.cache
+/home/iliamous/VSCodeProjects/practice/obj/Debug/net8.0/practice.dll
+/home/iliamous/VSCodeProjects/practice/obj/Debug/net8.0/refint/practice.dll
+/home/iliamous/VSCodeProjects/practice/obj/Debug/net8.0/practice.pdb
+/home/iliamous/VSCodeProjects/practice/obj/Debug/net8.0/practice.genruntimeconfig.cache
+/home/iliamous/VSCodeProjects/practice/obj/Debug/net8.0/ref/practice.dll
